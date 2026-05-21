@@ -6,6 +6,17 @@ Weather Data Analysis and Prediction is a machine learning project that focuses 
 
 The project includes data preprocessing, exploratory data analysis, data visualization, model training, model evaluation, and prediction on test data.
 
+## Internship Project Details
+
+This project was completed as part of my internship at **Codec Technologies**. It is my second internship project after the Twitter Sentiment Analysis project.
+
+- **Internship Organization:** Codec Technologies
+- **Project Title:** Weather Data Analysis and Prediction
+- **Project Type:** Data Analytics and Machine Learning
+- **Internship Project Number:** 2
+- **Previous Project:** Twitter Sentiment Analysis
+- **Main Focus:** Weather data analysis, visualization, regression modeling, and temperature prediction
+
 ## Repository Contents
 
 - `dataset/` - Contains training and testing weather datasets
