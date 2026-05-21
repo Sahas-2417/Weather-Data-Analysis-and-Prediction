@@ -6,6 +6,14 @@ Weather Data Analysis and Prediction is a machine learning project that focuses 
 
 The project includes data preprocessing, exploratory data analysis, data visualization, model training, model evaluation, and prediction on test data.
 
+## Repository Contents
+
+- `dataset/` - Contains training and testing weather datasets
+- `notebook/` - Contains the Google Colab notebook
+- `outputs/` - Contains prediction CSV and trained model file
+- `assets/` - Contains project visualization images
+- `requirements.txt` - Contains required Python libraries
+
 ## Objectives
 
 - To analyze historical weather data
@@ -87,6 +95,20 @@ The project generates:
 - Predicted mean temperature values
 - Saved prediction CSV file
 - Saved machine learning model file
+
+## Project Visualizations
+
+### Temperature Trend Over Time
+![Temperature Trend](assets/temperature_trend.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](assets/correlation_heatmap.png)
+
+### Model Comparison
+![Model Comparison](assets/model_comparison.png)
+
+### Actual vs Predicted Temperature
+![Actual vs Predicted Temperature](assets/actual_vs_predicted_test.png)
 
 ## Sample Prediction
 
